@@ -34,8 +34,11 @@ export const Nav = () => {
               }`}
             >
               {item.replace("-", " ").replace("/", " ")}
-            </Link>
+            </Link> 
+
             
+
+
           );
         })}
       </div>
