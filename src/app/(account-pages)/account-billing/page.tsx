@@ -22,6 +22,8 @@ const AccountBilling = () => {
           payout method. Learn more
         </span>
         <div className="pt-10">
+
+          
           <ButtonPrimary>Add payout mothod</ButtonPrimary>
         </div>
       </div>

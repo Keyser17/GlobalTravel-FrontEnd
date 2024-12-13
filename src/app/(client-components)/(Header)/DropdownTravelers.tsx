@@ -11,6 +11,13 @@ interface SolutionItem {
   description: string;
   href: PathName;
   icon: any;
+
+
+
+
+
+
+  
   active?: boolean;
 }
 

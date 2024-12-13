@@ -10,6 +10,8 @@ export interface AccountPageProps {}
 
 const AccountPage = () => {
   return (
+
+    
     <div className="space-y-6 sm:space-y-8">
       {/* HEADING */}
       <h2 className="text-3xl font-semibold">Account infomation</h2>

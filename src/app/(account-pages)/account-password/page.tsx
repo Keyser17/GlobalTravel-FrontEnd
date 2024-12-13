@@ -3,6 +3,8 @@ import Label from "@/components/Label";
 import ButtonPrimary from "@/shared/ButtonPrimary";
 import Input from "@/shared/Input";
 
+
+// Compare this snippet from src/app/%28account-pages%29/account-password/page.tsx:
 const AccountPass = () => {
   return (
     <div className="space-y-6 sm:space-y-8">
@@ -19,6 +21,8 @@ const AccountPass = () => {
           <Input type="password" className="mt-1.5" />
         </div>
         <div>
+
+
           <Label>Confirm password</Label>
           <Input type="password" className="mt-1.5" />
         </div>

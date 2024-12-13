@@ -12,6 +12,10 @@ import {
 import React, { Fragment, useState } from "react";
 import ButtonSecondary from "@/shared/ButtonSecondary";
 
+
+
+// Compare this snippet from src/app/%28account-pages%29/account-savelists/page.tsx:
+
 const AccountSavelists = () => {
   let [categories] = useState(["Stays", "Experiences", "Cars"]);
 
