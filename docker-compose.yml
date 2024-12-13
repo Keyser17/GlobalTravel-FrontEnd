@@ -1,9 +1,0 @@
-version: "3.8"
-services:
-  my-project:
-    build: .
-    ports:
-      - "4000:3000" # Map le port 3000 du conteneur sur le port 4000 du serveur
-    volumes:
-      - .:/app
-      - /app/node_modules
