@@ -13,7 +13,9 @@ import {
 import { Fragment } from "react";
 
 export const headerCurrency = [
-  {
+  {  
+     
+    
     id: "EUR",
     name: "EUR",
     href: "##",
